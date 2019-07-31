@@ -1,11 +1,13 @@
 # PracticaXLStoBBDD_ETL
-#Practica inteligencia de negocios, etl desde archivos excel a una base de datos relacional
+#Business intelligence practice, an ETL from excel source (xls) to a destination in a relational database
 
 ## Getting Started
 
 If you are interested in trying the code of our application, you can make a clone to the repository.
 
 If you want to contribute to the application as a contributor to the project, make a fork. Each time you are going to perform a pull request, you must specify correctly in the description of the same that was done in this request.
+
+This project consists of an ETL process, from which we build a DataWarehouse on the path of practices; We take an xls origin and perform data cleaning and standardize the data, to take it to its destination which is currently a relational database hosted on SQL Server.
 
 ### Installing
 
@@ -16,6 +18,8 @@ You need to have installed a database instance sql server 2017; Download the xls
 
 * [Visual Studio 2017 Community Edition](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
 * [SQL Server 2017](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
+* [SQL Server Data Tools (SSDT) for Visual Studio](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017)
+* [Microsoft Office 365](https://www.office.com)
 
 ## Maked with ♥ by
 
